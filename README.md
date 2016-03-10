@@ -15,7 +15,7 @@ console.log(getzodiac(year));
 ## Installation
 
 ```bash
-$ npm install express
+$ npm install getzodiac
 ```
 
 

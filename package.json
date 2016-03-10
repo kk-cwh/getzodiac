@@ -1,0 +1,15 @@
+{
+  "name": "getzodiac",
+  "version": "1.0.5",
+  "description": "get the zodiac by year",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "zodiac"
+  ],
+  "author": "jaakzhang",
+  "license": "MIT",
+  "readme": "ERROR: No README data found!"
+}
